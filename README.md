@@ -7,7 +7,11 @@ There is no built-in keyboard shortcut to duplicate tabs in Chrome or Edge, whic
 
 ## 1. Installation
 
-Please go the Chrome Web Store to install it: https://chrome.google.com/webstore/detail/tab-duplicator/lfmcdmbfaplkbjkefabcfbkfelmhhboa
+Just Clone the Repo : 
+& unload the folder in extensions in chrome / edge
+working -> 
+
+https://github.com/divitcr7/Duplicate-Chrome-Tab-Keyboard-shortcut-/assets/67183559/6d649cf9-6f4a-4121-871e-af29d3c5860f
 
 
 ## 2. How to use
